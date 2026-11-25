@@ -218,12 +218,11 @@ RETURN
 
 ## ✍️ Article and Author
 
-📝 **Read the full walkthrough on Medium:** [add your Medium article link here](https://medium.com/)
+📝 **Read the full walkthrough on Medium:** https://medium.com/@aqsaf8315/from-sql-server-to-a-power-bi-command-center-an-end-to-end-azure-data-pipeline-d3cce7640496
 
 **Aqsa Fatima**
 Data Engineering and Analytics student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/)
 
 <div align="center">
 
